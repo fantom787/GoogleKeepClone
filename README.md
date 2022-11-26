@@ -1,9 +1,10 @@
 # Getting Started with Create React App
 
+This is a Google Keep inspired, Notes keeping app. The best part? All the notes you save are kept locally on your computer! using your browser's LocalStorage.
+So, no more worrying about giving access to your secrets to 3rd-party companies.
+Built in React.js with ❤️ 
+in this user can Add delete Notes in future i will connect it with mongodb So as to save the notes Online.
 Live Website at ->https://fantom787.github.io/GoogleKeepClone/
-This is a React App Clone of Google Keep made using react js 
-in this u can Add delete Notes in future i will connect it with mongodb So as to save the notes
-
 
 ## Available Scripts
 
