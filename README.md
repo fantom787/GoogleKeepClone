@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Website at ->https://fantom787.github.io/GoogleKeepClone/
+This is a React App Clone of Google Keep made using react js 
+in this u can Add delete Notes in future i will connect it with mongodb So as to save the notes
+
 
 ## Available Scripts
 
